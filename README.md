@@ -1,12 +1,12 @@
 ## GRC LAB NIST SP 800-53 Rev.5
 
-### NIST SP 800-53 Rev5 Contols Excel Spreadsheet. (https://csrc.nist.gov/Projects/risk-management/sp800-53-controls/downloads)
-
 ### AUDIT PREP
 __________
 
 - NIST 800-53 EXCEL SPREADSHEET OR WHICHEVER FRAMEWORK YOU NEED/USE.
+  (https://csrc.nist.gov/Projects/risk-management/sp800-53-controls/downloads)
 - IDENTIFY WHO WE NEED TO TALK TO AND WHAT WE NEED TO SEE?
+  For this I Mock interviewed the CISO & IT Manager of a Dummy Company.
 - UNDERSTAND WHAT YOU'RE GOING TO ASK ( CONTROLS CAN BE REWRITTENEN/REPHRASED USING USING CHAT GPT AS AN EXAMPLE )
   For this Lab I used Least Priviledge Controls for the Compliance Audit and Risk Assesment.
   
@@ -14,13 +14,14 @@ __________
 _______________
 
 - WHO DO YOU NEED TO TALK TO? SCHEDULE MEETING? HOW LONG IS NEEDED FOR MEETING?
+  This can be done prior with say a liason of the Organisation to save time when you actually perform the Audit.
 - REQUESTING SOP'S/POLICIES ( DOCUMENTATION )
 
 ### AUDIT ( ON-SITE OR REMOTELY )
 _____________________________
 
-- HIGH IMPACT OF AUDIT; RESPECT TIME GIVEN/PROVIDED FOR AUDIT WITH THE ORGANISATION/BUSINESS.
-  Interviewed the CISO (Chief Information Security Oficer) and the IT Manager.
+- HIGH IMPACT OF AUDIT; RESPECT TIME GIVEN/PROVIDED FOR AUDIT WITH THE ORGANISATION/PERSONS BEING INTERVIEWED.
+  I Interviewed the CISO (Chief Information Security Oficer) and IT Manager asking about the Least Privilege Controls being used in their Organisation.
   [GRC LAB Interview NIST SP 800-53 Rev5.docx](https://github.com/user-attachments/files/17270209/GRC.LAB.Interview.NIST.SP.800-53.Rev5.docx)
 
 
@@ -29,13 +30,13 @@ _________________________
 
 ### ANALYSIS
 Cpmpliance Audit and Risk assesment carried out from the Interview and compiled into the NIST SP 800-53 Rev5 Contols Excel Spreadsheet for Least Priviledge Controls.
-  [GRC LAB NIST SP 800-53 Rev5.xlsx](https://github.com/user-attachments/files/17270221/GRC.LAB.NIST.SP.800-53.Rev5.xlsx)
+  [GRC LAB NIST SP 800-53 Rev5 Least Privilege Controls.xlsx](https://github.com/user-attachments/files/17270230/GRC.LAB.NIST.SP.800-53.Rev5.Least.Privilege.Controls.xlsx)
 
 
 ### REPORTING
 _________
 
-1. OVERVIEW
+1. OVERVIEW/SUMMARY
 2. AUDIT SCOPE
 3. AUDIT FINDINGS AND DISPOSITIONS
 4. RISK SUMMARY
