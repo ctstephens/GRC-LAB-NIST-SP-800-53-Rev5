@@ -53,4 +53,5 @@ _________
 6. CONCLUSION
 - [GRC LAB Audit Report NIST SP 800-53 Rev5.docx](https://github.com/user-attachments/files/17270223/GRC.LAB.Audit.Report.NIST.SP.800-53.Rev5.docx)
 ![Audit Report page 1](https://github.com/user-attachments/assets/d0f93428-fab9-4265-96c1-4af2f437a09d)
-![Audit Report page 2](https://github.com/user-attachments/assets/6f78c4f0-ab3f-45f9-aa64-19b892d41b92)
+![Audit Report page 2](https://github.com/user-attachments/assets/eef53092-ce75-4046-b946-442d20be44c3)
+
