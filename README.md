@@ -42,7 +42,7 @@ _________________________
 Compliance Audit and Risk assesment carried out from the Interview and compiled into the NIST SP 800-53 Rev5 Contols Excel Spreadsheet for Least Priviledge Controls.
 - [GRC LAB NIST SP 800-53 Rev5 Least Privilege Controls.xlsx](https://github.com/user-attachments/files/17270230/GRC.LAB.NIST.SP.800-53.Rev5.Least.Privilege.Controls.xlsx)
 
-![Audit   Risk Assessment](https://github.com/user-attachments/assets/121dfcc0-78d7-4a03-9774-e8f9f45a1f29)
+![Audit   Risk Assessment](https://github.com/user-attachments/assets/3813bd10-64d8-4faa-a69b-0e9caf0754a5)
 
 
 ### REPORTING
